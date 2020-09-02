@@ -1,5 +1,5 @@
 import React from "React";
 function App() {
-  return <div className="hello">fdfd</div>;
+  return <div classNamde="hello">dssds</div>;
 }
 export default App;
